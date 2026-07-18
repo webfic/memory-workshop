@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+
+# Regenerable Storyboard data
+.storyboard/cache/
+
+# Automatically archived draft revisions
+.draft/
+
+# 테스터 부산물
+.doc/

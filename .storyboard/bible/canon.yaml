@@ -1,0 +1,47 @@
+version: "1.0.0"
+facts:
+  - id: fact-seoha-lost-childhood
+    subject: { kind: character, id: seoha }
+    key: 기억 결손
+    value: 열 살 이전의 기억이 전혀 없으며, 이 사실을 누구에게도 말하지 않는다
+    status: canon
+  - id: fact-seoha-warning-rule
+    subject: { kind: character, id: seoha }
+    key: 거래 원칙
+    value: 기억을 사들이기 전 "팔면 되찾을 수 없다"는 경고를 반드시 세 번 한다
+    status: canon
+  - id: fact-juno-loss
+    subject: { kind: character, id: juno }
+    key: 상실
+    value: 3년 전 여름 홍수 사고로 동생 준희를 잃었다
+    status: canon
+  - id: fact-sugildang-bottles
+    subject: { kind: background, id: sugildang }
+    key: 유리병 규칙
+    value: 추출한 기억은 푸른 유리병에 담기며, 병이 깨지면 그 기억은 영구히 소멸한다
+    status: canon
+  - id: fact-memory-residue
+    subject: { kind: background, id: sugildang }
+    key: 기억 추출의 한계
+    value: 추출은 장면과 사실을 지우지만 몸에 밴 동작, 감각 반응, 이유를 설명할 수 없는 감정까지 없애지는 못한다
+    status: canon
+  - id: fact-seoha-junhee-childhood
+    subject: { kind: character, id: seoha }
+    key: 준희와의 과거
+    value: 서하와 준희는 19년 전 해오름 아동회복원에서 함께 지낸 친구였으나 서하만 그 시절을 기억하지 못한다
+    status: canon
+  - id: fact-first-extraction-accident
+    subject: { kind: character, id: sugil }
+    key: 첫 추출 사고
+    value: 19년 전 침수된 해오름에서 준희를 구하려던 서하가 초기 추출기의 도선을 뽑았고, 역류한 기계가 서하의 열 살 이전 기억을 전부 추출했다
+    status: canon
+  - id: fact-junhee-last-action
+    subject: { kind: character, id: junhee }
+    key: 마지막 행동
+    value: 준희는 3년 전 홍수 때 서하의 기억병을 찾아 지상으로 옮기려다 숨졌으며, 마지막에 외친 '서하'는 사람을 부른 것이 아니라 병의 주인을 알린 말이었다
+    status: canon
+  - id: fact-sugil-founded-shop
+    subject: { kind: character, id: sugil }
+    key: 수길당의 기원
+    value: 문수길은 첫 추출 사고의 죄책감 때문에 수길당과 세 번의 경고 규칙을 만들었지만 서하에게 사고의 진실은 말하지 않았다
+    status: canon

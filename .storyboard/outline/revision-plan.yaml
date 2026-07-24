@@ -1,0 +1,43 @@
+version: 1.0.0
+entries:
+  - sceneStem: 03-the-body-remembers
+    checkedAt: '2026-07-18T18:13:55.856Z'
+    revisionCount: 1
+    remainingBlocking: 0
+    instructions: []
+  - sceneStem: 04-the-back-of-memory
+    checkedAt: '2026-07-19T12:15:06.738Z'
+    revisionCount: 1
+    remainingBlocking: 0
+    instructions: []
+    preservedOriginal: false
+  - sceneStem: 06-a-companion-without-memory
+    checkedAt: '2026-07-24T07:35:31.487Z'
+    revisionCount: 2
+    remainingBlocking: 0
+    instructions:
+      - '장면 목적 ("그 순간 그의 오른손이 제 손목을 움켜쥐었다."): 장면 의도의 ‘오른쪽 손목’ 단서가 모호하다. ‘그는 오른쪽 손목을 움켜쥐었다’로 바꿔 기억 반응의 위치를 분명히 하라.'
+    preservedOriginal: false
+  - sceneStem: 07-the-first-transaction
+    checkedAt: '2026-07-24T07:52:29.342Z'
+    revisionCount: 2
+    remainingBlocking: 1
+    instructions:
+      - '캐릭터 보이스 (""거기서 멈춰라." / "해오름은 회복원이 아니었다." / "아이, 안 된다.""): 수길은 낮고 느린 존댓말을 쓰는 인물인데, 핵심 고백과 제지 대사가 반복해 반말로 나온다. "멈추세요", "해오름은 회복원이 아니었습니다", "아이, 안 됩니다"처럼 존댓말로 통일해 보이스를 유지하라.'
+      - '캐릭터 보이스 (""동생을 판 건 아닙니다." / "누군가는, 왜 우리한테서 빠진 게 있는지 말해야 합니다.""): 준오는 말끝을 자주 흐리고 감정이 북받치면 문장이 길어지는 인물인데, 대사가 모두 단정하게 끝난다. 적어도 한두 문장에는 "아닙니다만…", "말해 주셔야 하는 거 아닙니까…"처럼 망설임을 드러내라.'
+    preservedOriginal: false
+  - sceneStem: 08-things-that-break
+    checkedAt: '2026-07-24T07:59:43.321Z'
+    revisionCount: 1
+    remainingBlocking: 0
+    instructions:
+      - '캐릭터 보이스 ("기억나지 않는다는 사실이 지금은 변명보다도 쓸모없어 보였을 것이다."): 서하 고정 3인칭 제한 시점에서 준오의 내면을 단정합니다. 준오의 표정·행동을 통해 서하가 관찰할 수 있는 반응으로 바꾸세요.'
+    preservedOriginal: false
+  - sceneStem: 09-the-name-of-the-empty-place
+    checkedAt: '2026-07-24T08:12:31.263Z'
+    revisionCount: 2
+    remainingBlocking: 0
+    instructions:
+      - '반복 ("“처마 끝에 고인 물방울이 한 방울씩 떨어졌다.” / “처마 끝에서는 물방울이 드문드문 떨어졌고”"): 처마 물방울과 종이·약초·쇳내 묘사가 장면 후반에 반복됩니다. 핵심 전환부에만 남기고 나머지는 인물의 행동이나 침묵으로 바꿔 리듬을 정리하세요.'
+      - '장면 목적 ("“준오의 손가락이 그 들뜬 모서리를 천천히 눌러 붙였다.”"): 마지막 이미지가 정서적으로는 닫히지만, 다음 장면으로 이어질 긴장이나 질문은 남기지 않습니다. 준오가 기록 정리에 실제로 참여하며 마주할 미확인 사실, 또는 서하가 아직 열지 않은 기록을 짧게 암시해 다음 장면의 동력을 남기세요.'
+    preservedOriginal: false

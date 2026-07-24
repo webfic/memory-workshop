@@ -1,3 +1,6 @@
 {
-  "storyboard.defaultProvider": "codex"
+  "storyboard.defaultProvider": "codex",
+  "storyboard.providers.codex.model": "gpt-5.6-terra",
+  "storyboard.providers.codex.reasoningEffort": "high",
+  "storyboard.providers.codex.timeoutMs": 1500000
 }
